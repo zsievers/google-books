@@ -1,0 +1,10 @@
+a.link {
+    display: inline-block;
+    margin-bottom: 20px;
+    color: #000000;
+}
+
+.description {
+    font-size: 18px;
+    max-width: 800px;
+}
