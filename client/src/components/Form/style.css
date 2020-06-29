@@ -1,8 +1,10 @@
 .button {
-    color: whitesmoke;
+    color:white;
+    background-color: rgb(53, 161, 53);
 }
 
 .form-control {
     position: relative;
     margin: 0 auto;
+    width: 25%;
 }

@@ -3,7 +3,7 @@ import "./style.css";
 
 export const Input = props => {
     return (
-        <div className="form-control">
+        <div className="form-group">
              <input className="form-control" {...props} />
         </div>
     );
@@ -11,8 +11,8 @@ export const Input = props => {
 
 export const FormBtn = props => {
     return (
-        <buton {...props} style={{ marginBottom: 12 }} className="btn button">
+        <button {...props} style={{ marginBottom: 12 }} className="btn button">
             {props.children}
-        </buton>
+        </button>
     );
 };
