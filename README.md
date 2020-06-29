@@ -3,7 +3,7 @@
 MERN book search app. 
 
 <li>Heroku: https://quiet-plateau-49237.herokuapp.com/</li>
-<img class="" src = "./screenshot.png" width="900" height="500">
+<img class="img-rounded" src = "./screenshot.PNG" width="900" height="500">
 
 # Technologies Used
 <li>Mongo DB</li>

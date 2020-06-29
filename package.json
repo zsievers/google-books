@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/zsievers/google-books/issues"
   },
-  "homepage": "https://github.com/zsievers/google-books",
+  "homepage": "https://github.com/zsievers/google-books#readme",
   "dependencies": {
     "axios": "^0.19.2",
     "body-parser": "^1.19.0",
