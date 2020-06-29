@@ -1,0 +1,46 @@
+.container-fluid {
+    padding-left: 170px !important;
+    margin-bottom: 40px;
+}
+
+.bookimg {
+    height: 80px;
+    width: 53px;
+}
+
+.col-md-3 {
+    padding-right: 0px !important;
+}
+
+h6 {
+    font-size: 18px;
+}
+
+.title {
+    cursor: pointer;
+    color: #1a0dab;
+}
+
+.link {
+    font-size: 14px;
+    padding-top: 1px;
+    color: #006621;
+    cursor: pointer;
+}
+
+.author {
+    color: #1a0dab;
+    font-family: "Roboto", arial, sans-serif;
+    font-size: 15px;
+}
+
+.col-sm-1 {
+    padding-left: 10px;
+    padding-right: 0px;
+}
+
+@media only screen and (max-width: 400px) {
+    .container-fluid {
+        padding-left: 25px !important;
+    }
+}
